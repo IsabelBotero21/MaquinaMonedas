@@ -1,0 +1,11 @@
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.exe
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.deps.json
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.runtimeconfig.json
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.runtimeconfig.dev.json
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.dll
+C:\Users\XGAnalista2\maquinaMonedas\bin\Debug\netcoreapp3.1\maquinaMonedas.pdb
+C:\Users\XGAnalista2\maquinaMonedas\obj\Debug\netcoreapp3.1\maquinaMonedas.csprojAssemblyReference.cache
+C:\Users\XGAnalista2\maquinaMonedas\obj\Debug\netcoreapp3.1\maquinaMonedas.AssemblyInfoInputs.cache
+C:\Users\XGAnalista2\maquinaMonedas\obj\Debug\netcoreapp3.1\maquinaMonedas.AssemblyInfo.cs
+C:\Users\XGAnalista2\maquinaMonedas\obj\Debug\netcoreapp3.1\maquinaMonedas.dll
+C:\Users\XGAnalista2\maquinaMonedas\obj\Debug\netcoreapp3.1\maquinaMonedas.pdb
